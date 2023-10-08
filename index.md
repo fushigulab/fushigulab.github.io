@@ -1,4 +1,4 @@
-# We delve into ***fushigi*** of the world!
+## We delve into ***fushigi*** of the world!
 
 Welcome to fushigu laboratory, where we delve into ***fushigi*** of the world!  
 We are a team of experts in the field of €ompüter Science, specializing in various cutting-edge research areas.  
